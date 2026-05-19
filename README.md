@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Nada Awad from Egypt<br><br>- 🔭 I’m a Student and my major is CS <br>- 📚 I'm currently learning UI/UX <br>- ⚡ In my free time I like to design</p>
 
 ###
 
@@ -35,7 +35,6 @@
 ###
 
 <div align="left">
-  <!-- تم تعديل الأيقونات هنا لـ Figma, XD, HTML, CSS, JS -->
   <img src="https://skillicons.dev/icons?i=figma,xd,html,css,js" height="40" alt="design and frontend skills" />
 </div>
 
